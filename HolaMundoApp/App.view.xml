@@ -2,12 +2,12 @@
  controllerName="HelloWorld.App"
  xmlns:mvc="sap.ui.core.mvc"
  xmlns="sap.m">
- <Page title="My App"/>
+ <Page title="App Hola Mundo"/>
     <Button
         id="helloButton"
         type="Emphasized"
         icon="sap-icon://sap-ui5"
-        text="Say Hello"
+        text="Click aquí"
         press="onShowHello"
         class="sapUiSmallMargin"
     />
